@@ -73,3 +73,7 @@ C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\CmsShoppingCart\CmsShoppi
 C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.csproj.CopyComplete
 C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.dll
 C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\CmsShoppingCart\CmsShoppingCart\obj\Debug\CmsShoppingCart.pdb
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.dll
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.dll
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.xml
+C:\Users\Dev Ops\Documents\Visual Studio 2019\Projects\CmsShoppingCart\CmsShoppingCart\bin\EntityFramework.SqlServer.xml
